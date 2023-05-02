@@ -1,7 +1,7 @@
 //|------------------------------------------------|
 //| Trabalho Final - Linguagem Computacional       |
 //|------------------------------------------------|
-//| Código: NOME_DO_JOGO                           |
+//| Código: FIELD RUN                              |
 //|------------------------------------------------|
 //| Alunos:                                        |
 //| Fábio André Camargo Sanz                       |
